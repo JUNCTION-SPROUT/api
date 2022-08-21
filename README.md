@@ -7,13 +7,15 @@ We use Power Apps to make **'sprout'**. For more information, see [Power Apps fo
 
 # 🌱 Introduction
 
-With the increase of remote work and multiple chat platforms, communication challenges only seem to increase, which can become a roadblock to productive collaboration. To help individuals keep up to date with any developments, we provide 🌱**“Chat Q&A and Summarization Program”.**🌱
+With the increase of remote work and multiple chat platforms, communication challenges only seem to increase, which can become a roadblock to productive collaboration. To help individuals keep up to date with any developments, we provide 🌱 **“Chat Q&A and Summarization Program”.** 🌱
+
 
 
 # 🌱Function
 
 - **Summarization Program** : Users can capture specific range of dialogues using simple command. Then, the NLP machine learning API obtains these dialogues from Microsoft Teams to find out what the user wants to know.
 - **Chat QA** : The app serves as a chatbot that answers work-related questions based on previous conversations. It is a function based on NLP technology, too. With this, people can making the overall process more efficient.
+
 
 
 # 🌱 Development Environment
@@ -24,6 +26,7 @@ With the increase of remote work and multiple chat platforms, communication chal
 - Power apps
 
 We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**. With these low-/no-code way, we can develop worth app despite of short time. 
+
 
 
 # 🌱 Setting
@@ -42,6 +45,7 @@ We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**.
 
 ![KakaoTalk_Photo_2022-08-21-10-33-02](https://user-images.githubusercontent.com/76519535/185772175-d43d60f7-97f0-492e-a005-faa24f8df539.jpeg)
 ![KakaoTalk_Photo_2022-08-21-10-32-59](https://user-images.githubusercontent.com/76519535/185772178-8477b37b-ee18-46ba-b261-9bcdeca0b0cb.jpeg)
+
 
 
 # 🌱 To Use app
