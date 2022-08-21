@@ -2,7 +2,7 @@
 
 ### Hello! **We're growing sprouts, team spout.👋**
 
-We use Power Apps to make [APP NAME]. For more information, see [Power Apps for developers](https://docs.microsoft.com/powerapps/#pivot=home&panel=developer). 
+We use Power Apps to make **'sprout'**. For more information, see [Power Apps for developers](https://docs.microsoft.com/powerapps/#pivot=home&panel=developer). 
 
 
 # 🌱 Introduction
@@ -23,7 +23,7 @@ With the increase of remote work and multiple chat platforms, communication chal
 - Python
 - Power apps
 
-We use Microsoft’s Power Automate, Azure, and Power apps to make [APP NAME]. With these low-/no-code way, we can develop worth app despite of short time. 
+We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**. With these low-/no-code way, we can develop worth app despite of short time. 
 
 
 # 🌱 Setting
@@ -36,7 +36,7 @@ We use Microsoft’s Power Automate, Azure, and Power apps to make [APP NAME]. W
 
 2. Please download and run the app. After that, Please log in to the app with your Microsoft account.
 
-![KakaoTalk_Photo_2022-08-21-10-33-05](https://user-images.githubusercontent.com/76519535/185772171-4ab6da43-b738-45af-8a12-844f3291a2ef.jpeg)
+![KakaoTalk_Photo_2022-08-21-10-33-05](https://user-images.githubusercontent.com/76519535/185772171-4ab6da43-b738-45af-8a12-844f3291a2ef.jpeg width="50%")
 
 3. After running the application, press **‘all apps’** button in the lower bar. You can see the app we built. Press **‘JA Sprout’** to start!
 
