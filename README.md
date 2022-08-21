@@ -32,16 +32,16 @@ We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**.
 
 1. You can run our app with any device such as phone, or tablet. If you are an Android user, download **'Power apps'** through the Google Store and if you are an Apple user, download **'Power apps'** through the App Store.
 
-![KakaoTalk_Photo_2022-08-21-10-19-26](https://user-images.githubusercontent.com/76519535/185772159-5248fd6d-8b14-4903-b3b0-a90e1e08e785.jpeg){: width="300" height="300"){: .center}
+![KakaoTalk_Photo_2022-08-21-10-19-26](https://user-images.githubusercontent.com/76519535/185772159-5248fd6d-8b14-4903-b3b0-a90e1e08e785.jpeg)
 
 2. Please download and run the app. After that, Please log in to the app with your Microsoft account.
 
-![KakaoTalk_Photo_2022-08-21-10-33-05](https://user-images.githubusercontent.com/76519535/185772171-4ab6da43-b738-45af-8a12-844f3291a2ef.jpeg){: width="300" height="300"){: .center}
+![KakaoTalk_Photo_2022-08-21-10-33-05](https://user-images.githubusercontent.com/76519535/185772171-4ab6da43-b738-45af-8a12-844f3291a2ef.jpeg)
 
 3. After running the application, press **‘all apps’** button in the lower bar. You can see the app we built. Press **‘JA Sprout’** to start!
 
-![KakaoTalk_Photo_2022-08-21-10-33-02](https://user-images.githubusercontent.com/76519535/185772175-d43d60f7-97f0-492e-a005-faa24f8df539.jpeg){: width="300" height="300"){: .center}
-![KakaoTalk_Photo_2022-08-21-10-32-59](https://user-images.githubusercontent.com/76519535/185772178-8477b37b-ee18-46ba-b261-9bcdeca0b0cb.jpeg){: width="300" height="300"){: .center}
+![KakaoTalk_Photo_2022-08-21-10-33-02](https://user-images.githubusercontent.com/76519535/185772175-d43d60f7-97f0-492e-a005-faa24f8df539.jpeg)
+![KakaoTalk_Photo_2022-08-21-10-32-59](https://user-images.githubusercontent.com/76519535/185772178-8477b37b-ee18-46ba-b261-9bcdeca0b0cb.jpeg)
 
 
 # 🌱 To Use app
