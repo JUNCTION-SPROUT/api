@@ -7,7 +7,7 @@ We use Power Apps to make **'sprout'**. For more information, see [Power Apps fo
 
 # 🌱 Introduction
 
-With the increase of remote work and multiple chat platforms, communication challenges only seem to increase, which can become a roadblock to productive collaboration. To help individuals keep up to date with any developments, we provide “Chat Q&A and Summarization Program”.
+With the increase of remote work and multiple chat platforms, communication challenges only seem to increase, which can become a roadblock to productive collaboration. To help individuals keep up to date with any developments, we provide 🌱**“Chat Q&A and Summarization Program”.**🌱
 
 
 # 🌱Function
