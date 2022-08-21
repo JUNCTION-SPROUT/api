@@ -1,37 +1,30 @@
 # Manual
-
-### Hello! **We're growing sprouts, team sprout.👋**
-
-We use Power Apps to make **'sprout'**. For more information, see [Power Apps for developers](https://docs.microsoft.com/powerapps/#pivot=home&panel=developer). 
+### Hello! **We're growing sprouts, team sprout.** 👋
+We use Microsoft TEAMS, Azure and Power Apps to make **'sprout'**. For more information, see [Power Apps for developers](https://docs.microsoft.com/powerapps/#pivot=home&panel=developer). 
 
 
 # 🌱 Introduction
-
-With the increase of remote work and multiple chat platforms, communication challenges only seem to increase, which can become a roadblock to productive collaboration. To help individuals keep up to date with any developments, we provide 🌱 **“Chat Q&A and Summarization Program”.** 🌱
-
+With the increase of remote work and multiple chat platforms, communication challenges only seem to increase, which can become a roadblock to productive collaboration. To help individuals keep up to date with any progress, we provide 🌱 **“Chat Q&A and Summarization Program”.** 🌱
 
 
 # 🌱 Function
+**Summarization Program** : Users can capture specific range of dialogues using simple command. And the NLPCloud API gets these dialogue contexts from Microsoft Teams to summarize for users using conversation summarization fine-tuned BART model.
 
-- **Summarization Program** : Users can capture specific range of dialogues using simple command. Then, the NLP machine learning API obtains these dialogues from Microsoft Teams to find out what the user wants to know.
-- **Chat QA** : The app serves as a chatbot that answers work-related questions based on previous conversations. It is a function based on NLP technology, too. With this, people can making the overall process more efficient.
+**Chat QA** : The app serves as a Queation and Answering chatbot that gives work-related answers based in previous conversations. It is based on RoBERTa with squad2 dataset fine-tuned in HuggingFace API. With this, people can making the overall process more efficient.
 
 
-
-# 🌱 Development Environment
-
-- Microsoft’s Power Automate
-- Azure
-- Python
-- Power apps
-
-We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**. With these low-/no-code way, we can develop worth app despite of short time. 
-
+# 🌱 Development Environment
+Microsoft’s Power Automate
+Azure Cosmos DB
+Power Apps
+PyTorch and HuggingFace, NLPCLoud API for ML
+AWS Lambda, EC2, API gateway
+We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**. With these low-/no-code way, we can develop worth app despite of short time.
 
 
 # 🌱 Setting
 
-### I**nstall and run applications**
+### **Install and run applications**
 
 1. You can run our app with any device such as phone, or tablet. If you are an Android user, download **'Power apps'** through the Google Store and if you are an Apple user, download **'Power apps'** through the App Store.
 
