@@ -46,6 +46,11 @@ We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**.
 
 # 🌱 To Use app
 
+‼️ Before use app, You need access to our onedrive, because we use excel to store data received from api. For this, you should use the account of the user who belongs to our tenant. Or, you can access our one drive with the access link. 
+‼️ Essential Excel File that uploaded in onedrive 
+- summary/GENERAL1.xlsx (be used to get summarize context)
+- /Query-Results-5.xlsx (be used to get channel of Teams)
+
 1. If you look at the top left, you can see our two main functions: **'Answer a Question'** and **'Summarize'.** Click each button to move the window!
 2. First, the **"Answer a Question"** window. The list on the left calls up the Teams channel you are currently accessing. When you click a channel, a QA bot that uses AI to analyze the channel history is launched.
     
