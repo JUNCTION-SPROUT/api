@@ -14,11 +14,11 @@ With the increase of remote work and multiple chat platforms, communication chal
 
 
 # 🌱 Development Environment
-Microsoft’s Power Automate
-Azure Cosmos DB
-Power Apps
-PyTorch and HuggingFace, NLPCLoud API for ML
-AWS Lambda, EC2, API gateway
+- Microsoft’s Power Automate
+- Azure Cosmos DB
+- Power Apps
+- PyTorch and HuggingFace, NLPCLoud API for ML
+- AWS Lambda, EC2, API gateway
 We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**. With these low-/no-code way, we can develop worth app despite of short time.
 
 
