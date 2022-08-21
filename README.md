@@ -1,6 +1,6 @@
 # Manual
 
-### Hello! **We're growing sprouts, team spout.👋**
+### Hello! **We're growing sprouts, team sprout.👋**
 
 We use Power Apps to make **'sprout'**. For more information, see [Power Apps for developers](https://docs.microsoft.com/powerapps/#pivot=home&panel=developer). 
 
