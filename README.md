@@ -11,7 +11,7 @@ With the increase of remote work and multiple chat platforms, communication chal
 
 
 
-# 🌱Function
+# 🌱 Function
 
 - **Summarization Program** : Users can capture specific range of dialogues using simple command. Then, the NLP machine learning API obtains these dialogues from Microsoft Teams to find out what the user wants to know.
 - **Chat QA** : The app serves as a chatbot that answers work-related questions based on previous conversations. It is a function based on NLP technology, too. With this, people can making the overall process more efficient.
@@ -51,6 +51,8 @@ We use Microsoft’s Power Automate, Azure, and Power apps to make **'sprout'**.
 # 🌱 To Use app
 
 ‼️ Before use app, You need access to our onedrive, because we use excel to store data received from api. For this, you should use the account of the user who belongs to our tenant. Or, you can access our one drive with the access link. 
+
+
 ‼️ Essential Excel File that uploaded in onedrive 
 - summary/GENERAL1.xlsx (be used to get summarize context)
 - /Query-Results-5.xlsx (be used to get channel of Teams)
